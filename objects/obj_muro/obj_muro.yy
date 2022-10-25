@@ -1,14 +1,10 @@
 {
-  "resourceType": "GMObject",
-  "resourceVersion": "1.0",
-  "name": "obj_muro",
   "spriteId": {
     "name": "spr_muro",
     "path": "sprites/spr_muro/spr_muro.yy",
   },
   "solid": false,
   "visible": true,
-  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -34,4 +30,8 @@
     "name": "Superficies",
     "path": "folders/Objetos/Superficies.yy",
   },
+  "resourceVersion": "1.0",
+  "name": "obj_muro",
+  "tags": [],
+  "resourceType": "GMObject",
 }

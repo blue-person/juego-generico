@@ -1,14 +1,10 @@
 {
-  "resourceType": "GMObject",
-  "resourceVersion": "1.0",
-  "name": "obj_bucle",
   "spriteId": {
     "name": "spr_bucle",
     "path": "sprites/spr_bucle/spr_bucle.yy",
   },
   "solid": false,
   "visible": true,
-  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -34,4 +30,8 @@
     "name": "Superficies",
     "path": "folders/Objetos/Superficies.yy",
   },
+  "resourceVersion": "1.0",
+  "name": "obj_bucle",
+  "tags": [],
+  "resourceType": "GMObject",
 }

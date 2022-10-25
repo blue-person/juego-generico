@@ -1,11 +1,7 @@
 {
-  "resourceType": "GMObject",
-  "resourceVersion": "1.0",
-  "name": "obj_superficie",
   "spriteId": null,
   "solid": false,
   "visible": true,
-  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -28,4 +24,8 @@
     "name": "Superficies",
     "path": "folders/Objetos/Superficies.yy",
   },
+  "resourceVersion": "1.0",
+  "name": "obj_superficie",
+  "tags": [],
+  "resourceType": "GMObject",
 }
